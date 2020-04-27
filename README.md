@@ -1,2 +1,2 @@
-# Sooraj.S
-My first GitHub repository?
+# Sooraj'S First GitHub Repository
+Hello.
