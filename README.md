@@ -1,4 +1,4 @@
-# Sooraj's First/Trial GitHub Repository
+# First/Trial GitHub Repository
 Hello.
 
 This repository is to see how to use GitHub. I still don't understand it...
