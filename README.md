@@ -1,5 +1,6 @@
-# First/Trial GitHub Repository
-Hello.
+# Hello!
+
+Hello world!
 
 This repository is to see how to use GitHub. I kind of understand it...
 
